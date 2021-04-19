@@ -1,6 +1,3 @@
-# self-driving-car
-
-
 ##Steps:
 1. Basic Lane Finding
 2. Traffic Sign Classifier
