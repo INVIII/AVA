@@ -1,4 +1,5 @@
 Training and Validation Images from : https://drive.google.com/drive/folders/1dZbepocmH1wPpyQaOM2FCfAhuI26qU8l?usp=sharing
+
 Download the Trained Model (for prediction generation) from : https://drive.google.com/drive/folders/1j3SoDdOdQE_VER9D29gqv4ZYyh9c0ijW?usp=sharing
 
 Make sure you have the following installed:
