@@ -1,6 +1,6 @@
-Training and Validation Images from : https://drive.google.com/drive/folders/1dZbepocmH1wPpyQaOM2FCfAhuI26qU8l?usp=sharing
+Training and Validation Images from : https://rb.gy/aecowf
 
-Download the Trained Model (for prediction generation) from : https://drive.google.com/drive/folders/1j3SoDdOdQE_VER9D29gqv4ZYyh9c0ijW?usp=sharing
+Download the Trained Model (for prediction generation) from : https://rb.gy/eoylvz
 
 Make sure you have the following installed:
 1. Tensorflow
