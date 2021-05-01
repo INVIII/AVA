@@ -1,5 +1,5 @@
 This is project to implement a Self-Driving Car, using machine learning, computer vision and some physical sensors.
-This project is inspired by the Udacity Self Driving Course
+e
 
 ## This project aims to achieve:
 1. A model that can be deployed on real - life cars
