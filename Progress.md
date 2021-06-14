@@ -1,8 +1,8 @@
 ##Steps:
 1. Basic Lane Finding
-2. Traffic Sign Classifier
+2. Traffic Sign Classifier -> Completed
 3. Speed Breaker Detector -> Completed 
-4. Behavioural Cloning
+4. Behavioural Cloning -> Put on Hold
 5. Camera Calibration
 6. Advanced Lane Finding
 7. Vehicle Detection and Tracking
